@@ -44,7 +44,7 @@ export const siteConfig = {
     },
     {
       label: "Calendar",
-      href: "/calendar",
+      href: "/saved",
     },
     {
       label: "Settings",
